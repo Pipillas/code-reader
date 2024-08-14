@@ -1,0 +1,8 @@
+.rotated-video {
+    transform: rotate(90deg);
+    transform-origin: center center;
+    width: 100vh;
+    /* Ajusta según el ángulo de rotación */
+    height: 100vw;
+    /* Ajusta según el ángulo de rotación */
+}
